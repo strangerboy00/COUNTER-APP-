@@ -1,6 +1,5 @@
 # COUNTER-APP-
 
-# Project README File
 
 # Row Counter
 A simple, responsive web-based application designed to help crafters (like knitters and crocheters) track their rows or repetitions effortlessly. Built with clean HTML, custom CSS styling, and functional JavaScript.
