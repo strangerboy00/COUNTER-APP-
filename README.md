@@ -6,7 +6,7 @@
 A simple, responsive web-based application designed to help crafters (like knitters and crocheters) track their rows or repetitions effortlessly. Built with clean HTML, custom CSS styling, and functional JavaScript.
 ## 🚀 Live Demo
 You can view the live deployment of this project here:  
-👉 **[Live Demo Link](https://github.io)** *(Replace this URL with your actual deployment link once hosted)*
+👉 **[Live Demo Link](https://strangerboy00.github.io/COUNTER-APP-/)** *(Replace this URL with your actual deployment link once hosted)*
 ## ✨ Features- **Dynamic Incrementing:** Click the "INCREMENT" button to instantly count up your rows.- **Save Entries:** Log your progress using the "SAVE" button, which keeps a history of your previous counts.
 - **Beautiful & Responsive UI:** Featuring a custom styled background overlay, modern typography (`Open Sans`), crisp layouts, and distinctly colored interactive buttons.- **Mobile Friendly:** The interface gracefully adjusts width dimensions to offer a native-app feel across smartphones, tablets, and desktop viewports.
 ## 🛠️ Tech Stack- **HTML5:** Semantic structure for the layout.
